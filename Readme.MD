@@ -10,3 +10,12 @@ pip3 install numpy scipy matplotlib tqdm PyQt5 PySide2
 ```
 python3 usbl_qtwidget.py
 ```
+## 模拟水下组合定位
+```
+python3 combinnav.py
+```
+
+## 模拟水下移动目标运动轨迹
+```
+python3 simulator_movetarget.py
+```
